@@ -1,0 +1,55 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: jWlFoBhlLEDzLLw2jmyLn8WOxNk=
+
+Name: res/layout/single_result.xml
+SHA1-Digest: dDMYbRLGbwdvNwLjsLU1AG9/QfM=
+
+Name: res/layout/single_accespoint.xml
+SHA1-Digest: x7i7akDIy5e7cGScO4gQEqDDy8o=
+
+Name: res/raw/config.xml
+SHA1-Digest: bETm1e/wiKweUlcl5CeYew8OOJM=
+
+Name: res/drawable-ldpi/signal_75.png
+SHA1-Digest: hpxURhA8qHO5pOS9XwQTCb3P7S4=
+
+Name: res/drawable-ldpi/signal_25.png
+SHA1-Digest: szVrqtVEFczKp87HvkXksUUEoIo=
+
+Name: res/layout/custom_dialog.xml
+SHA1-Digest: uUwL6arfcpVm2Ug5qsXN6Qp9BZk=
+
+Name: resources.arsc
+SHA1-Digest: VmRtrEFTR9M1MYYv0zTVEG39DxA=
+
+Name: classes.dex
+SHA1-Digest: NlNh5lU2DQsojh3SayI6u9aD6+0=
+
+Name: res/layout/single_element.xml
+SHA1-Digest: Chab/4nx1mxU3UMh46MlfM94WD4=
+
+Name: res/drawable-ldpi/signal_100.png
+SHA1-Digest: I499pY1oEjCerA9/w7HC2q1Q6Bo=
+
+Name: res/layout/alice_list.xml
+SHA1-Digest: vsnLZDOBUJrfMlcTFls0i/FH5P4=
+
+Name: res/layout/main.xml
+SHA1-Digest: REZLIudJs7t+NG8cJom9COxWSVE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: bd1ID8i5OQOVdYaZVjAB3hv48Q8=
+
+Name: res/xml/menu.xml
+SHA1-Digest: IB+F/xJpSknqyfIfqZz4q9zuoDo=
+
+Name: res/drawable-ldpi/signal_50.png
+SHA1-Digest: F3YWNx3qgTYpJD4kfDiglig2w6Y=
+
+Name: res/drawable-hdpi/options.png
+SHA1-Digest: t4ygx0h7Tm5GAFMtVmYst6F50bg=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: TkVIrvcGNPE/0hgSsrGuPYvSXVQ=
+

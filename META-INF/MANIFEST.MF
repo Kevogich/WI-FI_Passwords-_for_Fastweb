@@ -1,0 +1,54 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout/single_result.xml
+SHA1-Digest: tviOJvFqRHiNDphZF7a8t/8QO1Y=
+
+Name: res/layout/single_accespoint.xml
+SHA1-Digest: e/Beksf2+El/xYzTdmapa+fqsXs=
+
+Name: res/raw/config.xml
+SHA1-Digest: GbCC/OCJ95Qj3dXXAKoCwOOA8po=
+
+Name: res/drawable-ldpi/signal_75.png
+SHA1-Digest: Hzg/9AYvEhXTKbLQyjsl8EIxAnc=
+
+Name: res/drawable-ldpi/signal_25.png
+SHA1-Digest: eQ8KfWXvmk3MWNgsLtaDR2MnVnM=
+
+Name: res/layout/custom_dialog.xml
+SHA1-Digest: JrcI7gKXKGUNM0hAvGX2yn7TdbQ=
+
+Name: resources.arsc
+SHA1-Digest: Ww8plHOtkbrcZ4zrwRMVj6rxYfc=
+
+Name: classes.dex
+SHA1-Digest: el0igqmPp+VfygTmv2EnA/F0YIQ=
+
+Name: res/layout/single_element.xml
+SHA1-Digest: eaAzwSg7UFxPBbBH4HMU0WQ4irw=
+
+Name: res/drawable-ldpi/signal_100.png
+SHA1-Digest: 1FMBQmF6fuby8LbvDAhLg9w/ub4=
+
+Name: res/layout/alice_list.xml
+SHA1-Digest: 4jYEEvVWP/jEvR1/zIbb16PV9ts=
+
+Name: res/layout/main.xml
+SHA1-Digest: /uilLL7DQNII3CRrH+yblaEwKmg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: TYGUFE+tVGX185QbEHTn1d+ssGE=
+
+Name: res/xml/menu.xml
+SHA1-Digest: AAlWKMeDRrPlhv1OZrelk24ibp0=
+
+Name: res/drawable-ldpi/signal_50.png
+SHA1-Digest: Hzg/9AYvEhXTKbLQyjsl8EIxAnc=
+
+Name: res/drawable-hdpi/options.png
+SHA1-Digest: MFK/5rVAw5aGZQOL1JbSQBcWiNg=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: Qhr6ZLz6T2iIOsaOKiymWRJOPYA=
+
